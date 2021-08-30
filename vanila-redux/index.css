@@ -3,7 +3,7 @@
   width: 64px;
   height: 64px;
   border-radius: 32px;
-  box-sizing: border-box;
+  box-sizing: border-box; 
 }
 
 .toggle.active {
