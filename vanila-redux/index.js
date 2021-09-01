@@ -1,4 +1,4 @@
-import { createStore } from "redux";
+import { createStore } from "redux"; 
 
 // DOM 레퍼런스 정의.
 const divToggle = document.querySelector(".toggle");
